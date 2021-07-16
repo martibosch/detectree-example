@@ -7,7 +7,7 @@ dependencies:
   - descartes
   - detectree
   - geopandas
-  - laspy<2.0.0
+  - laspy>=2
   - lastools
   - laszip
   - matplotlib
